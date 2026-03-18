@@ -64,15 +64,15 @@ Some observations appeared incorrectly scaled (e.g., India in 2015). These were 
 
 The Time period and Spending share columns were formatted as numeric values.
 
-Result
+Result:
 
-screenshot here
+![cleaned_data](./screenshots/data-cleaned.png)
 
 ## Analysis
 
 The analysis was conducted using pivot tables in Excel, with countries as rows and average spending shares calculated across the selected time period.
 
-screenshot here of the pivot table
+![pivot-table-example](./screenshots/pivot-snapshot.png)
 
 ### Which countries spent the largest share of government expenditure on all education between 2015–2022?
 
@@ -88,7 +88,7 @@ Chile — 15.59%
 
 Peru — 14.04%
 
-screenshot here
+![top5-spenders-on-all-education](./screenshots/spending-all-education.png)
 
 ### Which countries spent the largest share of government expenditure on tertiary education between 2015–2022?
 
@@ -104,17 +104,17 @@ Costa Rica — 4.30%
 
 Turkey — 4.28%
 
-screenshot here
+![spending-on-tertiary-education](./screenshots/spending-tertiary-education.png)
 
 ### How has education spending changed over time in all countries?
 
 It is noticeable that since 2015, the overall trend in education spending has been slightly downward.
 
-screenshot here
+![spending-over-time](./screenshots/spending-over-time.png)
 
-### Dashboard view
+### Dashboard
 
-screenshot here
+![dashboard](./screenshots/dashboard-view.png)
 
 ## Insights and summary
 
