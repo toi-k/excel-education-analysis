@@ -30,7 +30,7 @@ ChatGPT (for formatting and cleaning the README file)
 
 Raw data looked like this:
 
-screenshot here
+![raw_data](./screenshots/raw_data.png)
 
 ### Remove columns
 
